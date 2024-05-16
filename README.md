@@ -1,5 +1,8 @@
 # 3a.CREATION FOR ECHO CLIENT AND ECHO SERVER USING TCP SOCKETS
 
+## Name: NIRMAL .N
+## REG NO :212223240107
+
 # AIM
 To write a python program for creating Echo Client and Echo Server using TCP
 Sockets Links.
